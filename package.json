@@ -1,0 +1,27 @@
+{
+  "name": "isprime",
+  "version": "0.0.0",
+  "description": "check to see if a number is prime",
+  "main": "index.js",
+  "dependencies": { },
+  "devDependencies": {
+    "thousandprimes": "0.0.1"
+  },
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TJkrusinski/isprime.git"
+  },
+  "keywords": [
+    "prime",
+    "test"
+  ],
+  "author": "TJ Krusinski <tjkrus@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TJkrusinski/isprime/issues"
+  },
+  "homepage": "https://github.com/TJkrusinski/isprime"
+}
