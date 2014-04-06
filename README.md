@@ -19,6 +19,9 @@ isprime(4);
 
 isprime(11);
 // => true;
+
+isprime(3079);
+// => true;
 ```
 
 ## Tests
