@@ -5,7 +5,7 @@
  *	@param {Number} num
  */
 module.exports = function(num) {
-  if (num == 1) return true;
+  if (num == 1) return false;
   num += 2;
 
   var upper = Math.sqrt(num);
