@@ -1,6 +1,6 @@
 {
   "name": "isprime",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "check to see if a number is prime",
   "main": "index.js",
   "dependencies": { },
