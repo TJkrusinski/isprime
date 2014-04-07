@@ -9,9 +9,9 @@ module.exports = function(num) {
   num += 2;
 
   var upper = Math.sqrt(num);
-	var sieve = new Array(num)
-		.join(',').split(',') // get values for map to work
-		.map(function(){ return true });
+  var sieve = new Array(num)
+    .join(',').split(',') // get values for map to work
+    .map(function(){ return true });
   
   for (var i = 2; i <= num; i++) {
     if (sieve[i]) {
